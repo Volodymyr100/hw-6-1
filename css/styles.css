@@ -819,6 +819,7 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1)
   color: #FFFFFF;
   padding: 10px 62px 10px 29px;
   position: relative;
+  cursor: pointer;
 }
 
 .footer-send{
